@@ -6,4 +6,4 @@
 
 ![screenshot](images/phtrack.png)
 
-# 3Parallel execution using threads.
+# 3 Parallel execution using threads.
