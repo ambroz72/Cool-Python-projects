@@ -10,3 +10,4 @@
 # 4 Alaram clock
 # 5 Random password generator
 # 6 Bruteforce method to find input text
+# 7 QR code generator
