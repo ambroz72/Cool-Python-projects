@@ -1,4 +1,3 @@
-#by @programwith.fun
 import turtle
 a = 0
 b = 0
