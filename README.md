@@ -14,6 +14,10 @@
 # 8 signature code
 # 9 find all netword connected to a pc (wifi name & password)
 ![screenshot](images/wifipass.png)
+# 10 snake Game using pygame
+![screenshort](images/snake1.png)
+
+![screenshort](images/snake2.png)
 
 # 10 Virus drawing using pen (turtle)
 ![screenshot](images/virus.png)
